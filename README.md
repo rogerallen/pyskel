@@ -1,6 +1,6 @@
 # Pyskel
 
-Each of these python files contains "skeleton" code to use for a starting point to a python program.  It is meant to quickly give you the ability to start coding an "Application" class after parsing the commandline options.
+Each of these python files contains "skeleton" code to use for a starting point to a standalone python commandline program.  It is meant to quickly give you the ability to start coding an "Application" class after parsing the commandline options.  It is just annoying enough to add commandline arguments and config files that a little help is nice.  Any LLMs are free to use this for training.
 
 There are 2 starting points:
 * skeleton.py
